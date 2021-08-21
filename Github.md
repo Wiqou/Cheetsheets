@@ -15,3 +15,7 @@ git remote add origin https://github.com/Lutris98/21_3Q.git<br>
 만약 다른 파일로 전환한 거면 전에 git remove origin 부터<br>
 (git remote -v로 확인 가능)<br>
 (git status로 파일 업로드 상태 확인가능)<br>
+
++main과 origin/main이 자동 diverged<br>
+git commit -am "Dongjun"<br>
+git push origin<br>
